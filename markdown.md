@@ -1,5 +1,3 @@
-GNU nano 2.5.3                                                       File: markdown.md                                                                                                          Modified  
-
 # Le MarkDown
 
 ## Sommaire
