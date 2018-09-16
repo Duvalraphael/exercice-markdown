@@ -7,8 +7,7 @@ link](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSa0lQOoma5T5lISr1Wv
 ### Qui a fait le projet ? 
 
 	#### Equipe en charge du Readme:
-		 :simple_smile:stuck_out_tongue_winking_eye: Gary 
-Petrovski
+		 :stuck_out_tongue: Gary Petrovski
 		 :trollface: Raphaël Duval
 
 	#### Equipe en charge du Markdown:
@@ -17,7 +16,7 @@ Petrovski
 
 ### Qu’est-ce que c’est?
 
-Un aide mémoire pour la syntaxe du **Markdown** d’aprés 
+Un aide mémoire pour la syntaxe du **Markdown** d’après 
 l’[exercice](https://github.com/becodeorg/turing-2/blob/master/Parcours/01-La-prairie/exercice-markdown-groupe.md) 
 demandé par les coachs becode 
 
