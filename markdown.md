@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Le MarkDown
 
 ## Sommaire
@@ -114,5 +114,3 @@ Voila nous t'avons montré les commandes qui te permettront de coder convenablem
 
 [readme](exercice-markdown/README.md)
 
-
->>>>>>> 98033d5a30075e09f67d7d29178ac67db77be806
