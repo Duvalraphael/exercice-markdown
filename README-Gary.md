@@ -8,10 +8,12 @@ link](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSa0lQOoma5T5lISr1Wv
 
 #### Equipe en charge du Readme:
 :stuck_out_tongue: Gary Petrovski
+
 :trollface: Raphaël Duval
 
 #### Equipe en charge du Markdown:
 :octocat: Nathan Hennaux
+
 :eggplant: Jérémy Creola 
 
 ### Qu’est-ce que c’est?
