@@ -1,14 +1,16 @@
 ## Incorporer une image
+
 Si tu veux intégrer une image dans ton terminal, il faut utiliser la commande :
 ! [Nom de ton image] (url de l’image)
 Exemple :
+
 ![GitHub Logo](https://www.becode.org/hire/images/logo-becode.png)
 
 ## Insérer des liens
 Grâce à l’insertion des liens dans ton terminal, tu vas pouvoir accéder directement aux différents sites affichés.
 La commande est celle-ci :
 
-[Nom du site](URL)
+ `[Nom du site](URL)`
 
 Exemple :
 
