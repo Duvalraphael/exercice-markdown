@@ -4,9 +4,8 @@
 	Charleroi le 14 septembre 2018. 
 ### Exemples de quelques lignes de notre code  :beginner: :
 #### Langages  utilisée : 
-	
-		* GIT
-		* Markdown 
+* GIT
+* Markdown 
 
        `nano README.mdraph ### Date et lieu de réalisation  ?
 
