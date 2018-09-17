@@ -9,19 +9,16 @@
 		* GIT
 		* Markdown 
 
-       `nano README.mdraph
-### Date et lieu de réalisation  ?
+       `nano README.mdraph ### Date et lieu de réalisation  ?
 
         Notre petit groupe a élaboré ce pense-bête lors d'un travail au sein de becode
         Charleroi le 14 septembre 2018.
-### Exemples de quelques lignes de notre code  :beginner: :
-      
-	 #### Langages  utilisée : 
+	### Exemples de quelques lignes de notre code  :beginner: :
+      	 #### Langages  utilisée : 
                
 		 * GIT
                 * Markdown`
 ### Progression du projet  :shipit: ?
-
 	** En cours **
 
 ### Contenu du projet ? 
