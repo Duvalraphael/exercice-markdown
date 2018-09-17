@@ -27,7 +27,7 @@ Exemple : As Nathan said:
 
 Voila nous t'avons montré les commandes qui te permettront de coder convenablement sur GIT !
 
-! [Pouce en l'air](https://gph.is/2fU4QxH)
+[Pouce en l'air](https://media.giphy.com/media/xT9IgGx5exK061igBa/giphy.gif)
 
 [readme](exercice-markdown/README.md)
 
