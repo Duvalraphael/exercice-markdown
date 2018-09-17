@@ -3,8 +3,7 @@
 	Notre petit groupe a élaboré ce pense-bête lors d'un travail au sein de becode
 	Charleroi le 14 septembre 2018. 
 ### Exemples de quelques lignes de notre code  :beginner: :
-
-	#### Langages  utilisée : 
+#### Langages  utilisée : 
 	
 		* GIT
 		* Markdown 
@@ -19,7 +18,7 @@
 		 * GIT
                 * Markdown`
 ### Progression du projet  :shipit: ?
-	** En cours **
+** En cours **
 
 ### Contenu du projet ? 
 
