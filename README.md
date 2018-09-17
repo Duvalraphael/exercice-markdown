@@ -3,7 +3,7 @@
 	Notre petit groupe a élaboré ce pense-bête lors d'un travail au sein de becode
 	Charleroi le 14 septembre 2018. 
 ### Exemples de quelques lignes de notre code  :beginner: :
-#### Langages  utilisée : 
+#### Langages  utilisés : 
 * GIT
 * Markdown 
 
@@ -19,7 +19,7 @@ __En cours__
 
 ### Contenu du projet ? 
 
-	Notre projet est un inventaire et une descriptions complète de la syntaxe du Markdown.
+	Notre projet est un inventaire et une description complète de la syntaxe du Markdown.
 
 ### Menu de navigation :
 
