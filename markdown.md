@@ -112,5 +112,5 @@ Voila nous t'avons montré les commandes qui te permettront de coder convenablem
 
 ## Menu de navigation
 
-[readme](exercice-markdown/README.md)
+[readme](https://github.com/Duvalraphael/exercice-markdown/blob/master/README.md)
 
