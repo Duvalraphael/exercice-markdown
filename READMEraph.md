@@ -15,8 +15,7 @@
                 * GIT
                 * Markdown`
 ### Progression du projet  :shipit: ?
-
-** En cours **
+__En cours__
 
 ### Contenu du projet ? 
 
